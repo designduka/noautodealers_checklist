@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>Is the Engine very dirty/oily?</string>
+	<string>Dusty or dirty under oil cap?</string>
+	<string>Leaks or Sprays?</string>
+	<string>any dripping under the car?</string>
+	<string>Battery corrosion?</string>
+	<string>Oil level too high or low?</string>
+	<string>Oil color too dark?</string>
+	<string>Obviously repaired?</string>
+	<string>Does the engine run smoothly?</string>
+	<string>Any knocking/pinging/squealing?</string>
+	<string>Transmission fluid clear?</string>
+	<string>Trans fluid low?</string>
+	<string>No black buildup or shavings?</string>
+</array>
+</plist>

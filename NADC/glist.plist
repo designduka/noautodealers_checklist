@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>Why are you selling the car?</string>
+	<string>Are you the first owner?</string>
+	<string>Car serviced regularly?</string>
+	<string>Any major accidents?</string>
+	<string>Any major engine/trans work?</string>
+	<string>Car pass last emmissions?</string>
+	<string>Can I have the car inspected?</string>
+	<string>Any warranty left on the car?</string>
+</array>
+</plist>

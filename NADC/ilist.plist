@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>Are the seats worn?</string>
+	<string>Roof liner saggin?</string>
+	<string>Any indicator lights on dash?</string>
+	<string>Power ok?</string>
+	<string>Dampness in carpet?</string>
+	<string>Seats/mirrors adjust ok?</string>
+	<string>Seatbelts functional?</string>
+	<string>Radio/CD/MP3 ok?</string>
+	<string>Turns Signals working ok?</string>
+	<string>Windshield wipers working ok?</string>
+</array>
+</plist>
